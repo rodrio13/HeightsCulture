@@ -7,3 +7,5 @@ Our vision is fast-paced, forward-thinking and fashion-centered at its core, and
 ## WireFrame
 ![Wireframe](https://user-images.githubusercontent.com/52425891/62828971-c628b580-bba7-11e9-8795-bb3b808cdf22.png)
 ## Entity Relationship Diagram
+![ERD MSSA](https://user-images.githubusercontent.com/52425891/62828990-71d20580-bba8-11e9-9b16-3a3bf27e772f.png)
+## Database
