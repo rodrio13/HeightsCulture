@@ -6,3 +6,4 @@ Our vision is fast-paced, forward-thinking and fashion-centered at its core, and
 ![Site Map](https://user-images.githubusercontent.com/52425891/62828942-55819900-bba7-11e9-80c8-a4a0e16454a9.png)
 ## WireFrame
 ![Wireframe](https://user-images.githubusercontent.com/52425891/62828971-c628b580-bba7-11e9-8795-bb3b808cdf22.png)
+## Entity Relationship Diagram
