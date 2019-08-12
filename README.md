@@ -22,7 +22,7 @@ This is a very basic site map for my website.
 ## Entity Relationship Diagram
 ![ERD MSSA](https://user-images.githubusercontent.com/52425891/62828990-71d20580-bba8-11e9-9b16-3a3bf27e772f.png)
 ## Database
-```------------------------------------ HeightsCulture ----------------------------------
+````------------------------------------ HeightsCulture ----------------------------------
 DROP DATABASE IF EXISTS HeightsCulture;
 CREATE DATABASE HeightsCulture
 --------------------------------- Creating Tables #1 ---------------------------------
@@ -221,4 +221,7 @@ VALUES
 ('01', 'Shirt'),
 ('02', 'Pant'),
 ('03', 'Short'),
-('04', 'Sweater')```
+('04', 'Sweater')````
+
+## Database Diagram
+![Database Diagram](https://user-images.githubusercontent.com/52425891/62829222-bf9d3c80-bbad-11e9-95e0-0db735519c21.PNG)
