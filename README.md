@@ -221,7 +221,7 @@ VALUES
 ('01', 'Shirt'),
 ('02', 'Pant'),
 ('03', 'Short'),
-('04', 'Sweater')````
-
+('04', 'Sweater')
+````
 ## Database Diagram
 ![Database Diagram](https://user-images.githubusercontent.com/52425891/62829222-bf9d3c80-bbad-11e9-95e0-0db735519c21.PNG)
