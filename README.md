@@ -22,7 +22,8 @@ This is a very basic site map for my website.
 ## Entity Relationship Diagram
 ![ERD MSSA](https://user-images.githubusercontent.com/52425891/62828990-71d20580-bba8-11e9-9b16-3a3bf27e772f.png)
 ## Database
-````------------------------------------ HeightsCulture ----------------------------------
+````
+------------------------------------ HeightsCulture ----------------------------------
 DROP DATABASE IF EXISTS HeightsCulture;
 CREATE DATABASE HeightsCulture
 --------------------------------- Creating Tables #1 ---------------------------------
