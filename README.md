@@ -238,7 +238,7 @@ VALUES
 ## Requirements Traceability Matrix
 ![RTM HC](https://user-images.githubusercontent.com/52425891/64802011-93733380-d53e-11e9-8814-0f326df2c34d.PNG)
 ## UML
-
+![UML](https://user-images.githubusercontent.com/52425891/64805086-16978800-d545-11e9-97bf-a5437979a9d5.jpg)
 ## Prototype
 #### Computer View
 ![HeightsCulture Prototype](https://user-images.githubusercontent.com/52425891/64799633-f6ae9700-d539-11e9-9a8e-0d05c5195102.PNG)
