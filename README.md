@@ -9,7 +9,8 @@ Our vision is fast-paced, forward-thinking and fashion-centered at its core, and
 4. [Database](https://github.com/rodrio13/HeightsCulture#Database) <br>
 5. [Database Diagram](https://github.com/rodrio13/HeightsCulture#Database-Diagram) <br>
 6. [Requirements Traceability Matrix](https://github.com/rodrio13/HeightsCulture#Requirements-Traceability-Matrix) <br>
-7. [Prototype](https://github.com/rodrio13/HeightsCulture#Prototype) <br>
+7. [UML](https://github.com/rodrio13/HeightsCulture#UML) <br>
+8. [Prototype](https://github.com/rodrio13/HeightsCulture#Prototype) <br>
 ## Site Map
 ![Site Map](https://user-images.githubusercontent.com/52425891/62828942-55819900-bba7-11e9-80c8-a4a0e16454a9.png)
 This is a very basic site map for my website. 
@@ -236,6 +237,8 @@ VALUES
 ![Database Diagram](https://user-images.githubusercontent.com/52425891/62829222-bf9d3c80-bbad-11e9-95e0-0db735519c21.PNG)
 ## Requirements Traceability Matrix
 ![RTM HC](https://user-images.githubusercontent.com/52425891/64802011-93733380-d53e-11e9-8814-0f326df2c34d.PNG)
+## UML
+
 ## Prototype
 #### Computer View
 ![HeightsCulture Prototype](https://user-images.githubusercontent.com/52425891/64799633-f6ae9700-d539-11e9-9a8e-0d05c5195102.PNG)
