@@ -4,12 +4,12 @@ Heights Culture is your go-to source for styles influenced by the latest fashion
 Our vision is fast-paced, forward-thinking and fashion-centered at its core, and all of our products reflect these ideals. We invite you to browse our site to find just what you have been looking for. Look good, feel good, shop Heights Culture today.
 ## Index
 1. [Site Map](https://github.com/rodrio13/HeightsCulture#Site-Map) <br>
-2. Wireframe
-3. Entity Relationship Diagram
-4. Database
-5. Database Diagram
-6. Requirements Traceability Matrix
-7. Prototype
+2. [Wireframe](https://github.com/rodrio13/HeightsCulture#Wireframe) <br>
+3. [Entity Relationship Diagram](https://github.com/rodrio13/HeightsCulture#Entity-Relationship-Diagram) <br>
+4. [Database](https://github.com/rodrio13/HeightsCulture#Database) <br>
+5. [Database Diagram](https://github.com/rodrio13/HeightsCulture#Database-Diagram) <br>
+6. [Requirements Traceability Matrix](https://github.com/rodrio13/HeightsCulture#Requirements-Traceability-Matrix) <br>
+7. [Prototype](https://github.com/rodrio13/HeightsCulture#Prototype) <br>
 ## Site Map
 ![Site Map](https://user-images.githubusercontent.com/52425891/62828942-55819900-bba7-11e9-80c8-a4a0e16454a9.png)
 This is a very basic site map for my website. 
