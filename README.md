@@ -8,7 +8,8 @@ Our vision is fast-paced, forward-thinking and fashion-centered at its core, and
 3. Entity Relationship Diagram
 4. Database
 5. Database Diagram
-6. Prototype
+6. Requirements Traceability Matrix
+7. Prototype
 ## Site Map
 ![Site Map](https://user-images.githubusercontent.com/52425891/62828942-55819900-bba7-11e9-80c8-a4a0e16454a9.png)
 This is a very basic site map for my website. 
