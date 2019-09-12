@@ -232,4 +232,3 @@ VALUES
 ![HeightsCulture Prototype](https://user-images.githubusercontent.com/52425891/64799633-f6ae9700-d539-11e9-9a8e-0d05c5195102.PNG)
 #### Phone View
 ![ProtoType Phone 1](https://user-images.githubusercontent.com/52425891/64800367-56597200-d53b-11e9-8756-f27c0af3af7b.PNG)
-![ProtoType Phone 2](https://user-images.githubusercontent.com/52425891/64800373-59ecf900-d53b-11e9-9ed9-0ab98fa69a50.PNG)
