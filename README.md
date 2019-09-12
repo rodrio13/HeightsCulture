@@ -234,7 +234,7 @@ VALUES
 ## Database Diagram
 ![Database Diagram](https://user-images.githubusercontent.com/52425891/62829222-bf9d3c80-bbad-11e9-95e0-0db735519c21.PNG)
 ## Requirements Traceability Matrix
-
+![RTM HC](https://user-images.githubusercontent.com/52425891/64802011-93733380-d53e-11e9-8814-0f326df2c34d.PNG)
 ## Prototype
 #### Computer View
 ![HeightsCulture Prototype](https://user-images.githubusercontent.com/52425891/64799633-f6ae9700-d539-11e9-9a8e-0d05c5195102.PNG)
