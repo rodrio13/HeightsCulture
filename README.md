@@ -26,7 +26,7 @@ This is a very basic site map for my website.
 * Bellow that is a big button that will display our new collection. It will rotate through the new products in intervals of 4 seconds. 
 * Bellow that on the left is the Shop All that does the same as the Shop menu button.
 * As well as, the About Us that does the exact same as the About menu button.
-* Bellow all that is the Contact Us. This will allow the customer to leave a review or just contact us for any assistance.
+* Bellow all that is the Contact Us. This will allow the customer to leave a review or just contact us for any assistance
 
 ## Entity Relationship Diagram
 ![ERD MSSA](https://user-images.githubusercontent.com/52425891/62828990-71d20580-bba8-11e9-9b16-3a3bf27e772f.png)
